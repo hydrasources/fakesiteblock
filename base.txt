@@ -45,3 +45,4 @@ rutor.siteunblocked.site - rutor.info
 rutor.theproxy.work - rutor.info
 rutor.proxybit.casa - rutor.info
 kexm.123tor.ru - rutor.info
+rutor.dirproxy.click - rutor.info
