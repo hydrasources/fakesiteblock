@@ -11,3 +11,4 @@ rutor-search.info - rutor.info
 rutor.org.in - rutor.info
 xatab-repack.rip - byxatab.com
 torrenti-igruha.org - none
+byrutgame.org - rutor.info
