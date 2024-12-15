@@ -47,3 +47,6 @@ rutor.proxybit.casa - rutor.info
 kexm.123tor.ru - rutor.info
 rutor.dirproxy.click - rutor.info
 rusgames.org - rutor.info
+rutor-search.info - rutor.info
+rutor-gamer.info - rutor.info
+new-rutor.org - rutor.info
